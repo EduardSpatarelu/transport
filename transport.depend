@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1736838118 source:c:\users\edwardo_247\documents\transport\transport\main.c
+	<stdio.h>
+	<stdlib.h>
+	"transport.h"
+
+1736838081 c:\users\edwardo_247\documents\transport\transport\transport.h
+
+1736838118 source:c:\users\edwardo_247\documents\transport\transport\transport.c
+	<stdio.h>
+	<string.h>
+	"transport.h"
+
